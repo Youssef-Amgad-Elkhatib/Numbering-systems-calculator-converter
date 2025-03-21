@@ -4,25 +4,24 @@ A simple Python-based numbering system converter that allows conversion between 
 <ul>
 <li>Decimal</li>
 
-Binary (Base 2)
+<li>Binary</li>
 
-Hexadecimal (Base 16)
+<li>Hexadecimal</li>
 
-Octal (Base 8)
+<li>Octal</li>
 </ul>
 
 
-#Features
+<h1>Features</h1>
+<ul>
+<li>Convert between decimal, binary, hexadecimal, and octal systems.</li>
+<li>User-friendly command-line interface.</li>
+<li>Handles both uppercase and lowercase hexadecimal inputs.</li>
+<li>Validates user input to prevent errors.</li>
+</ul>
 
-Convert between decimal, binary, hexadecimal, and octal systems.
 
-User-friendly command-line interface.
-
-Handles both uppercase and lowercase hexadecimal inputs.
-
-Validates user input to prevent errors.
-
-#Author
+<h1>Author<</h1>
 
 Eng/Youssef Amgad
 
