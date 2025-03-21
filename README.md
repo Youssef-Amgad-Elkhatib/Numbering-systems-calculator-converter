@@ -1,14 +1,16 @@
 <h1>Numbering System Converter</h1>
 
 A simple Python-based numbering system converter that allows conversion between four different numbering systems:
-
-Decimal (Base 10)
+<ul>
+<li>Decimal</li>
 
 Binary (Base 2)
 
 Hexadecimal (Base 16)
 
 Octal (Base 8)
+</ul>
+
 
 #Features
 
