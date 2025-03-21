@@ -21,7 +21,7 @@ A simple Python-based numbering system converter that allows conversion between 
 </ul>
 
 
-<h1>Author<</h1>
+<h1>Author</h1>
 
 Eng/Youssef Amgad
 
