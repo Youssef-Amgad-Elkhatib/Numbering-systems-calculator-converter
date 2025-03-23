@@ -1,5 +1,5 @@
-<h1>Numbering System Converter</h1>
-
+<h1>🔢 Numbering System Converter</h1>
+<h2>📖 Overview</h2>
 A simple Python-based numbering system converter that allows conversion between four different numbering systems:
 <ul>
 <li>Decimal</li>
@@ -12,7 +12,7 @@ A simple Python-based numbering system converter that allows conversion between 
 </ul>
 
 </br>
-<h1>Features</h1>
+<h2>✨ Features</h2>
 <ul>
 <li>Convert between decimal, binary, hexadecimal, and octal systems.</li>
 <li>User-friendly command-line interface.</li>
@@ -21,7 +21,7 @@ A simple Python-based numbering system converter that allows conversion between 
 </ul>
 
 </br>
-<h1>Author</h1>
+<h2>✍️ Authors</h2>
 
 - [Eng/Youssef Amgad Elkhatib](https://github.com/YoussefElkhatib)
 
